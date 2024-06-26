@@ -1,0 +1,19 @@
+.alert-text {
+    background-color: rgb(209, 91, 103);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#big-blue {
+    color: rgb(53, 97, 179);
+    font-size: 36px;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+#passing-text {
+    background-color: rgb(81, 198, 104);
+    font-size: 24px;
+    font-weight: bold;
+}
